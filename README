@@ -1,1 +1,10 @@
-Demo site: http://www.jscripts.info
+
+Online Demo: http://www.jscripts.info
+
+Multiple File Drag and Drop Uploader (mfupload.js) - jQuery Plugin
+
+- Drag and Drop or Standard Upload Dialog
+- Custom Progress Indicator
+- Custom Upload and Errors Procedures
+- Max Size Limit Option
+- File Type Option
